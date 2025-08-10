@@ -1,6 +1,6 @@
 # Early Diagnosis and Treatment — Borderland & Community-Based Malaria Care
 
-<img src="malaria_post.jpg" alt="Malaria post in remote Thai border area" width="600" align="left" style="margin-right:15px;"/>
+<img src="malaria_post.jpg" alt="Malaria post in remote Thai border area" width="650" align="left" style="margin-right:15px;"/>
 
 **What this is:**  
 This repository documents the development, evidence base, and operational lessons from **early diagnosis and treatment (EDT)** strategies for malaria in borderland and hard-to-reach settings, with a focus on **malaria posts (MPs)** and other forms of community-based care.  
