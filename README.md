@@ -12,12 +12,10 @@ While targeted mass drug administration (tMDA) and other interventions can have 
 
 - **Challenge:** Remote, mobile, and marginalized populations often face the highest malaria burdens yet have the least access to quality diagnosis and treatment.  
 - **Evidence base:** Studies from the [Shoklo Malaria Research Unit (SMRU)](https://www.shoklo-unit.com/) and partners demonstrated that **malaria posts** — small, community-run points of care with rapid diagnostic tests and antimalarials — can drastically reduce malaria morbidity and mortality.  
-- **Key insight:** Malaria posts, when embedded in strong community engagement and surveillance systems, can bring treatment within reach for communities where health facilities are distant or inaccessible.  
-- **Operational advantage:** EDT integrates easily with other community health priorities and supports sustained malaria elimination efforts, even in challenging political and geographic contexts.  
+- **Key insight:** Malaria posts, when properly set up and properly functioning, can bring treatment within reach for communities where health facilities are distant or inaccessible. For falciparum malaria this can lead to reduced transmission. The same may be true for other infections.  
+- **Operational advantage:** EDT integrates easily with other community health priorities and supports sustained malaria control and elimination efforts, even in challenging political and geographic contexts.  
 
 ---
-
-## Historical foundations
 
 ## Historical foundations
 
