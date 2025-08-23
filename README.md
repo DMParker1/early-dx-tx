@@ -28,13 +28,11 @@ While targeted mass drug administration (tMDA) and other interventions can have 
   Demonstrated dramatic reductions in *P. falciparum* morbidity and mortality via community-based diagnosis and ACT treatment among displaced populations in Tak Province, Thailand.
 
 - **Effect of early detection and treatment on malaria-related maternal mortality on the north-western border of Thailand (1986–2010).**  
-  McGready R, Boel M, Rijken MJ, Ashley EA, Cho T, et al. *PLoS ONE*. 2012;7(7):e40244.  
-  [https://doi.org/10.1371/journal.pone.0040244](https://doi.org/10.1371/journal.pone.0040244)  
+  McGready R, Boel M, Rijken MJ, Ashley EA, Cho T, et al. *PLoS ONE*. 2012;7(7):e40244. [https://doi.org/10.1371/journal.pone.0040244](https://doi.org/10.1371/journal.pone.0040244)  
   Showed that frequent antenatal clinic screening and early treatment of **P. falciparum** infections reduced maternal mortality significantly in refugee and migrant populations served by SMRU.
 
 - **The role of early detection and treatment in malaria elimination.**  
-  Landier J., Parker D.M., Thu A.M., Carrara V.I., Lwin K.M., Bonnington C.A., Pukrittayakamee S., Delmas G., Nosten F.H. (2016). *Malaria Journal*, 15:363.  
-  [https://doi.org/10.1186/s12936-016-1399-y](https://doi.org/10.1186/s12936-016-1399-y)  
+  Landier J., Parker D.M., Thu A.M., Carrara V.I., Lwin K.M., Bonnington C.A., Pukrittayakamee S., Delmas G., Nosten F.H. (2016). *Malaria Journal*, 15:363. [https://doi.org/10.1186/s12936-016-1399-y](https://doi.org/10.1186/s12936-016-1399-y)  
   Synthesizes evidence and program experience showing how **early detection and effective treatment** reduce transmission and accelerate elimination—key rationale for **METF’s** malaria-post strategy and the operational links documented in the [METF-mapping](https://github.com/DMParker1/METF-mapping) repo.
 
 ---
