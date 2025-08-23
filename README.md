@@ -24,8 +24,7 @@ While targeted mass drug administration (tMDA) and other interventions can have 
 ## Historical foundations
 
 - **Deployment of early diagnosis and mefloquine–artesunate treatment of falciparum malaria in Thailand: The Tak Malaria Initiative.**  
-  Carrara VI, Sirilak S, Thonglairuam J, Rojanawatsirivet C, Proux S, Gilbos V, Ashley EA, McGready R, White NJ, Nosten F. *PLoS Medicine*. 2006;3(6):e183.  
-  [https://doi.org/10.1371/journal.pmed.0030183](https://doi.org/10.1371/journal.pmed.0030183)  
+  Carrara VI, Sirilak S, Thonglairuam J, Rojanawatsirivet C, Proux S, Gilbos V, Ashley EA, McGready R, White NJ, Nosten F. *PLoS Medicine*. 2006;3(6):e183. [https://doi.org/10.1371/journal.pmed.0030183](https://doi.org/10.1371/journal.pmed.0030183)  
   Demonstrated dramatic reductions in *P. falciparum* morbidity and mortality via community-based diagnosis and ACT treatment among displaced populations in Tak Province, Thailand.
 
 - **Effect of early detection and treatment on malaria-related maternal mortality on the north-western border of Thailand (1986–2010).**  
