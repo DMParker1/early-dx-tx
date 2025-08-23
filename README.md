@@ -17,7 +17,7 @@ While targeted mass drug administration (tMDA) and other interventions can have 
 - **Challenge:** Remote, mobile, and marginalized populations often face the highest malaria burdens yet have the least access to quality diagnosis and treatment.  
 - **Evidence base:** Studies from the [Shoklo Malaria Research Unit (SMRU)](https://www.shoklo-unit.com/) and partners demonstrated that **malaria posts** — small, community-run points of care with rapid diagnostic tests and antimalarials — can drastically reduce malaria morbidity and mortality.  
 - **Key insight:** Malaria posts, when properly set up and properly functioning, can bring treatment within reach for communities where health facilities are distant or inaccessible. For falciparum malaria this can lead to reduced transmission. The same may be true for other infections.  
-- **Operational advantage:** EDT integrates easily with other community health priorities and supports sustained malaria control and elimination efforts, even in challenging political and geographic contexts.  
+- **Operational advantage:** EDT integrates easily with other community health priorities and supports sustained malaria control and elimination efforts, even in challenging political and geographic contexts. See also the complementary operational/placement work in [METF-mapping](https://github.com/DMParker1/METF-mapping).  
 
 ---
 
@@ -32,6 +32,11 @@ While targeted mass drug administration (tMDA) and other interventions can have 
   McGready R, Boel M, Rijken MJ, Ashley EA, Cho T, et al. *PLoS ONE*. 2012;7(7):e40244.  
   [https://doi.org/10.1371/journal.pone.0040244](https://doi.org/10.1371/journal.pone.0040244)  
   Showed that frequent antenatal clinic screening and early treatment of **P. falciparum** infections reduced maternal mortality significantly in refugee and migrant populations served by SMRU.
+
+- **The role of early detection and treatment in malaria elimination.**  
+  Landier J., Parker D.M., Thu A.M., Carrara V.I., Lwin K.M., Bonnington C.A., Pukrittayakamee S., Delmas G., Nosten F.H. (2016). *Malaria Journal*, 15:363.  
+  [https://doi.org/10.1186/s12936-016-1399-y](https://doi.org/10.1186/s12936-016-1399-y)  
+  Synthesizes evidence and program experience showing how **early detection and effective treatment** reduce transmission and accelerate elimination—key rationale for **METF’s** malaria-post strategy and the operational links documented in the [METF-mapping](https://github.com/DMParker1/METF-mapping) repo.
 
 ---
 
@@ -52,9 +57,11 @@ While targeted mass drug administration (tMDA) and other interventions can have 
 - [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
 - [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.  
-- [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool for spatial epidemiology and movement analysis; available for related work but not used in these specific projects.
-- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.
+- [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool for spatial epidemiology and movement analysis; available for related work but not used in these specific projects.  
+- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.  
+
 ---
+
 ## Notes on Data & Ethics
 
 - Any requests for data from these projects should be directed to the [Mahidol–Oxford Tropical Medicine Research Unit (MORU)](https://www.tropmedres.ac/).  
