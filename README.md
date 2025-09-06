@@ -61,6 +61,6 @@ These repositories connect different parts of my spatial epidemiology research:
 
 ---
 
-
+## Notes on data and confidentiality
 - Any requests for data from these projects should be directed to the [Mahidol–Oxford Tropical Medicine Research Unit (MORU)](https://www.tropmedres.ac/).  
 - No sensitive data are included in this repository.  
