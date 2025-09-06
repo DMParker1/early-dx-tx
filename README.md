@@ -6,7 +6,7 @@
 This repository documents the development, evidence base, and operational lessons from **early diagnosis and treatment (EDT)** strategies for malaria in borderland and hard-to-reach settings, with a focus on **malaria posts (MPs)** and other forms of community-based care.  
 
 **Why it’s here:**  
-While targeted mass drug administration (tMDA) and other interventions can have short-term impacts, sustained malaria control and elimination require long-term, accessible, and community-supported diagnosis and treatment systems. EDT has proven to be less controversial, more sustainable, and often easier to implement than tMDA — provided it is done well and consistently.  
+While targeted mass drug administration (tMDA) and other interventions can have short-term impacts, sustained malaria control and elimination require long-term, accessible, and community-supported diagnosis and treatment systems. EDT is less controversial than tMDA, more sustainable, and often easier to implement than tMDA. It does take careful planning, community engagement, and re-training.  
 
 *Photo: Taken by D.M. Parker in 2013, Thasongyang District, Thailand.*
 
@@ -46,10 +46,6 @@ While targeted mass drug administration (tMDA) and other interventions can have 
 
 ---
 
-## Related Repositories
-
----
-
 ## 🔗 Related Repositories
 
 These repositories connect different parts of my spatial epidemiology research:
@@ -65,7 +61,6 @@ These repositories connect different parts of my spatial epidemiology research:
 
 ---
 
-## Notes on Data & Ethics
 
 - Any requests for data from these projects should be directed to the [Mahidol–Oxford Tropical Medicine Research Unit (MORU)](https://www.tropmedres.ac/).  
 - No sensitive data are included in this repository.  
