@@ -1,6 +1,10 @@
 # Early Diagnosis and Treatment — Borderland & Community-Based Malaria Care
 
-<img src="malaria_post.jpg" alt="Malaria post in remote Thai border area" width="450" align="left" style="margin-right:15px;"/>
+<img src="malaria_post.jpg"
+     alt="Small wooden malaria post with a thatched roof in a forested rural area, with a malaria information banner displayed beside the structure."
+     width="450"
+     align="left"
+     style="margin-right:15px;"/>
 
 Early diagnosis and effective treatment are among the foundations of malaria control and elimination. In remote and borderland settings, however, reaching treatment quickly can be difficult precisely where malaria risk is greatest.
 
