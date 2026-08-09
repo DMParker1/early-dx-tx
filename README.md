@@ -2,11 +2,11 @@
 
 <img src="malaria_post.jpg" alt="Malaria post in remote Thai border area" width="450" align="left" style="margin-right:15px;"/>
 
-**What this is:**  
-This repository documents the development, evidence base, and operational lessons from **early diagnosis and treatment (EDT)** strategies for malaria in borderland and hard-to-reach settings, with a focus on **malaria posts (MPs)** and other forms of community-based care.  
+Early diagnosis and effective treatment are among the foundations of malaria control and elimination. In remote and borderland settings, however, reaching treatment quickly can be difficult precisely where malaria risk is greatest.
 
-**Why it’s here:**  
-While targeted mass drug administration (tMDA) and other interventions can have short-term impacts, sustained malaria control and elimination require long-term, accessible, and community-supported diagnosis and treatment systems. EDT is less controversial than tMDA, more sustainable, and often easier to implement than tMDA. It does take careful planning, community engagement, and re-training.  
+This repository brings together research on community-based approaches to closing that gap, particularly through malaria posts: small, locally operated points of care that provide rapid diagnosis and effective treatment close to where people live.
+
+Along the Thailand–Myanmar border, these systems became an important backbone for broader malaria-elimination efforts. They supported sustained access to care while also providing the infrastructure on which programs such as the Malaria Elimination Task Force (METF) and targeted mass drug administration (tMDA) could build. 
 
 *Photo: Taken by D.M. Parker in 2013, Thasongyang District, Thailand.*
 
